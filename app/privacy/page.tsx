@@ -97,7 +97,7 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
             <p className="text-muted-foreground leading-relaxed">
               If you have questions about this Privacy Policy or how we handle your data, please contact us at
-              privacy@cardlove.app or visit our{" "}
+             hello@cardtreeaihq.com or visit our{" "}
               <a href="/contact" className="text-accent hover:underline">
                 contact page
               </a>
