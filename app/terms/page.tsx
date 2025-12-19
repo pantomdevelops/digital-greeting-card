@@ -119,7 +119,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">Contact Information</h2>
             <p className="text-muted-foreground leading-relaxed">
-              For questions about these Terms, please contact us at terms@cardlove.app or visit our{" "}
+              For questions about these Terms, please contact us at hello@cardtreeaihq.com or visit our{" "}
               <a href="/contact" className="text-accent hover:underline">
                 contact page
               </a>
