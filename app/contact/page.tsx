@@ -102,12 +102,12 @@ export default function ContactPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground mb-2">General inquiries</p>
-                <a href="mailto:hello@cardtree.app" className="text-accent hover:underline">
-                  hello@cardtree.app
+                <a href="mailto:hello@cardtreeaihq.com" className="text-accent hover:underline">
+                  hello@cardtreeaihq.com
                 </a>
                 <p className="text-sm text-muted-foreground mt-4 mb-2">Support</p>
-                <a href="mailto:support@cardtree.app" className="text-accent hover:underline">
-                  support@cardtree.app
+                <a href="mailto:support@cardtreeaihq.com" className="text-accent hover:underline">
+                  support@cardtreeaihq.com
                 </a>
               </CardContent>
             </Card>
