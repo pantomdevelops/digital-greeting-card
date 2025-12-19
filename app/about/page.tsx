@@ -98,7 +98,7 @@ export default function AboutPage() {
                 <a href="/contact" className="text-accent hover:underline">
                   contact page
                 </a>{" "}
-                or reach out at hello@cardtreehq.com.
+                or reach out at hello@cardtreeaihq.com.
               </p>
             </section>
           </div>
